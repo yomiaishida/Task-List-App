@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn,
+.btn-large {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
